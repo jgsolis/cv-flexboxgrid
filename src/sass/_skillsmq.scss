@@ -1,0 +1,48 @@
+@media(max-width:500px){
+    /* SKILLS */
+    section.skills{
+        .container{
+            .row{
+                div{
+                    ul.skills-left,
+                    ul.skills-right,
+                    ul.languages-left,
+                    ul.languages-right,
+                    ul.tools-left,
+                    ul.tools-right{
+                        li{
+                            text-align: center;
+                            .skill{
+                                text-align: left;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media(max-width:768px){
+    /* SKILLS */
+    section.skills{
+        .container{
+            .row{
+                div{
+                    ul.skills-left,
+                    ul.skills-right,
+                    ul.languages-left,
+                    ul.languages-right,
+                    ul.tools-left,
+                    ul.tools-right{
+                        li{
+                            text-align: center;
+                            .skill{
+                                text-align: left;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

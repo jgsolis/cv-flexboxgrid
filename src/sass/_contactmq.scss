@@ -1,0 +1,22 @@
+@media(max-width:768px){
+/* CONTACT */
+section.contact{
+    background: $black;
+    padding: 80px 0px;
+    .container{
+        .row{
+            div:first-child{
+                ul{
+                    li{
+                        text-align: center;
+                    }
+                }
+            }
+        }
+    }
+}
+}
+
+@media(max-width:500px){
+
+}

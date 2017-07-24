@@ -1,0 +1,30 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "CV Web",
+  "author": "Jose Gildardo Solis Sanchez",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-bulk-import": "^1.0.1",
+    "gulp-sass-import": "^1.0.0",
+    "gulp-uglify": "^3.0.0",
+    "plumber": "^0.4.8"
+  },
+  "dependencies": {
+    "flexboxgrid": "^6.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "rateyo": "^2.3.2",
+    "scrollmagic": "^2.0.5"
+  }
+}
